@@ -1,0 +1,6 @@
+[General]
+Stack based on Big Data Hortonworks ecosystem
+[JVM]
+Oracle JDK 1.7
+[Inmage]
+CentOS7
